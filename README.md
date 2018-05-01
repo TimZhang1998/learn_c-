@@ -1,2 +1,2 @@
 # learn_cpp
-This is my record of learning c++.
+This is my record in learning c++.
